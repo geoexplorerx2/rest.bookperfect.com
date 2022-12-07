@@ -1,0 +1,304 @@
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:50 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:51 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[04-Oct-2022 09:48:51 UTC] PHP Fatal error:  Cannot use App\Http\Controllers\transport_supplieridController as transport_supplieridController because the name is already in use in /home/hrooms/cms.hitrooms.com/web/rest-api/routes/web.php on line 49
+[10-Oct-2022 11:37:13 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 8192 bytes) in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[10-Oct-2022 11:37:19 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 8192 bytes) in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[10-Oct-2022 11:37:47 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 8192 bytes) in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[11-Oct-2022 11:52:00 UTC] PHP Fatal error:  Allowed memory size of 2147483648 bytes exhausted (tried to allocate 143360 bytes) in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 08:16:31 UTC] PHP Fatal error:  Uncaught ErrorException: include(/home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/../../app/Exceptions/Handler.php): failed to open stream: No such file or directory in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php:571
+Stack trace:
+#0 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'include(/home/h...', '/home/hrooms/cm...', 571, Array)
+#1 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(571): include()
+#2 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/hrooms/cm...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('App\\Exceptions\\...')
+#4 [internal function]: spl_autoload_call('App\\Exceptions\\...')
+#5 /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('App\\Exceptions\\ in /home/hrooms/cms.hitrooms.com/web/rest-api/vendor/composer/ClassLoader.php on line 571
+[24-Oct-2022 11:45:19 UTC] PHP Fatal error:  Cannot declare class CreateUserTableTable, because the name is already in use in /home/hrooms/cms.hitrooms.com/web/TestRestApi/database/migrations/2022_10_24_113556_create_user_table_table.php on line 7
+[07-Nov-2022 15:37:26 Turkey] PHP Fatal error:  Cannot declare class CreateTransportBaseTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_150036_create_transport_base_table.php on line 7
+[07-Nov-2022 16:35:35 Turkey] PHP Fatal error:  Cannot declare class Transport, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_163212_transport.php on line 7
+[07-Nov-2022 16:36:42 Turkey] PHP Fatal error:  Cannot declare class Transport, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_163212_transport.php on line 7
+[07-Nov-2022 16:46:21 Turkey] PHP Fatal error:  Cannot declare class CreateTransportImportTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_164126_create_transport_import_table.php on line 7
+[07-Nov-2022 16:47:02 Turkey] PHP Fatal error:  Cannot declare class CreateTransportImportTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_164126_create_transport_import_table.php on line 7
+[07-Nov-2022 16:50:27 Turkey] PHP Fatal error:  Cannot declare class CreateTransportImportTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_164126_create_transport_import_table.php on line 7
+[07-Nov-2022 16:52:02 Turkey] PHP Fatal error:  Cannot declare class CreateTransportImportTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_164126_create_transport_import_table.php on line 7
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:51 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:56 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:56 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:56 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:56 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:56 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:42:56 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:14 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:17 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:17 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:17 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:17 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:17 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:17 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:22 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:22 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:22 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:22 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:22 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:22 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:37 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:37 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:37 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:37 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:37 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:37 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:53 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:53 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:53 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:53 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:54 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:43:54 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:15 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:38 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:38 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:38 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:38 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:38 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:44:38 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:19 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:45 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:46 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:46 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:46 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:46 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:46:46 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:02 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:03 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:20 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:21 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:35 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[08-Nov-2022 15:47:36 Turkey] PHP Warning:  Unterminated comment starting line 13 in /home/hrooms/test.hitrooms.com/web/rest-api/routes/web.php on line 13
+[24-Nov-2022 17:00:19 Turkey] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/hrooms/test.hitrooms.com/web/rest-api/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php on line 363
+[29-Nov-2022 11:38:15 Turkey] PHP Fatal error:  Cannot declare class CreateTransportTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_165947_create_transport_table.php on line 7
+[29-Nov-2022 11:38:38 Turkey] PHP Fatal error:  Cannot declare class CreateTransportTable, because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/database/migrations/2022_11_07_165947_create_transport_table.php on line 7
+[29-Nov-2022 15:20:47 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:20:48 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:20:54 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:20:54 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:17 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:17 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:29 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:30 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:40 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:41 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:46 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:21:46 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[29-Nov-2022 15:24:15 Turkey] PHP Fatal error:  Cannot declare class App\Http\Controllers\coordinates because the name is already in use in /home/hrooms/test.hitrooms.com/web/rest-api/app/Http/Controllers/coordinates.php on line 8
+[05-Dec-2022 06:53:58 UTC] PHP Warning:  require(/home/hrooms/test.hitrooms.com/web/rest-api/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/hrooms/test.hitrooms.com/web/rest-api/public/index.php on line 34
+[05-Dec-2022 06:53:58 UTC] PHP Warning:  require(/home/hrooms/test.hitrooms.com/web/rest-api/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/hrooms/test.hitrooms.com/web/rest-api/public/index.php on line 34
+[05-Dec-2022 06:53:58 UTC] PHP Fatal error:  require(): Failed opening required '/home/hrooms/test.hitrooms.com/web/rest-api/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hrooms/test.hitrooms.com/web/rest-api/public/index.php on line 34
