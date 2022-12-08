@@ -10,6 +10,9 @@ $__data = [
 Route::get('/get__theme', [__BOOKPERFECT__CONTROLLER__::class, '__GET__THEME__']);
 Route::get('/get__mealplan', [__BOOKPERFECT__CONTROLLER__::class, '__GET__MEALPLAN__']);
 Route::get('/get__airline__all', [__BOOKPERFECT__CONTROLLER__::class, '__GET__ALL__AIRLINE__']);
+/**
+ * @TODO Everyday cronjob.
+ */
 Route::get('/push_transportBase', [__BOOKPERFECT__CONTROLLER__::class, '__GET__TRANSPORT__BASE__']);
 Route::get('/get__countries__all', [__BOOKPERFECT__CONTROLLER__::class, '__GET__COUNTRIES__ALL__']);
 Route::get('/get__promotioncode', [__BOOKPERFECT__CONTROLLER__::class, '__GET__PROMOTION__CODE__']);
@@ -25,6 +28,10 @@ Route::get('/get__accommodations__by__id/{accommodationId}/{Lan?}', [__BOOKPERFE
    |
    | THESE ROUTES ARE WORKING WITH LOCAL DATABASE
 */
+/**
+ * @TODO: Do not migrate.
+ * Query api.
+ */
 Route::get('/get__transportbase__id/{countryCode}/{code?}', function ($__COUNTRY__CODE, $__CODE = null) {
 
    if ($__CODE == '{code}' || $__CODE == ',' || $__CODE == null) {

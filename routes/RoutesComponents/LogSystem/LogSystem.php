@@ -7,11 +7,17 @@ use App\Models\systemModels as systemModels;
 use App\Exports\LogFile;
 use Maatwebsite\Excel\Facades\Excel;
 
+/**
+ * @TODO 
+ */
 Route::post('/', function (Request $__REQUEST) {
     $__data = systemModels::where('username', '=', $__REQUEST->username)->where('userpass', '=', $__REQUEST->password)->get();
     $__status = count($__data) > 0 ? true : false;
     return $__status;
 });
+/**
+ * @TODO Make in drupal way.
+ */
 Route::get('/export/{__start__date}/{__start__time}/{__end__date}/{__end__time}', function (
     $__start__date,
     $__start__time,
